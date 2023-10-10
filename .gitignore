@@ -1,0 +1,29 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+.idea/
+bin/
+pkg/
+vendor/
+*.egg-info/
+
+# Compiled binary files
+main
+
+# Log files
+*.log
+
+# Output files
+*.out
+
+# Environment-specific files
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
